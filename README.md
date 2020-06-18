@@ -11,3 +11,6 @@ You will need one thing installed to make this bot work. Simply open up a termin
 + Additionally, you can change the prefix in `config.json`, modify the ID of the user in `whitelist.json` who will control the bot.
 
 Once you have completed all of the above, you may run `node index.js` or create a bat file with `node index.js`
+
+> Created by swirls#0001\
+> Enjoy it.
