@@ -1,5 +1,6 @@
 {
     "prefix": "/",
     "color": "#79cfec",
+    "token": "your bot token",
     "version": "1.0.1"
 }
