@@ -1,4 +1,9 @@
 # MassDM
+
+
+***UPDATING SOON***
+
+
 ***Use this tool at your own risk!***
 
 You will need one thing installed to make this bot work. Simply open up a terminal in the bot folder and type `npm install -d`. It can get the prerequisite program for you, and get the libraries needed for this bot to run! 
